@@ -41,3 +41,9 @@ credit-default-ml-service/
 ├── ab_test_plan.md
 ├── requirements.txt
 └── .gitignore
+
+# GitHub
+https://github.com/030201ruslan-sudo/credit-default-ml-service
+
+# Docker Hub
+https://hub.docker.com/r/030201ruslan/credit-default-api
